@@ -116,5 +116,5 @@ Identify users who remain active across multiple months.
 ## Author
 datawithrajat
 
-**Rajat**  
-Aspiring Data Analyst
+## License
+This project is licensed under the MIT License.
